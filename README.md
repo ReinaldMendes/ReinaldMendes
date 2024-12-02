@@ -23,7 +23,7 @@ Com habilidades avançadas em várias linguagens de programação e tecnologias,
 
 ### 📊 **Áreas de Especialidade:**
 
-- **Desenvolvimento de Sistemas**: Java, JavaScript, PHP, React Native, Python.
+- **Desenvolvimento de Sistemas**: Java, Node, JavaScript, PHP, React Native, Python.
 - **Data Science & Análise de Dados**: Transformação de dados em insights estratégicos.
 - **Gestão de Projetos**: Liderança e comunicação eficazes para colaborar em equipes de TI.
 - **Integração de Soluções Tecnológicas**: Eficiência e transparência em processos legislativos.
