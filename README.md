@@ -1,45 +1,67 @@
-# Reinald Mendes
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=85C1E9&height=120&section=header"/>
 
-<img src="https://img.shields.io/badge/Assessor%20Parlamentar-blue" alt="Assessor Parlamentar" /> <img src="https://img.shields.io/badge/Analista%20e%20Desenvolvedor%20de%20Sistemas-blue" alt="Analista e Desenvolvedor de Sistemas" /> <img src="https://img.shields.io/badge/Data%20Science-blue" alt="Data Science" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=AED6F1&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Reinald+Mendes;Sou+Assessor+Parlamentar;Sou+Analista+e+Desenvolvedor+de+Sistemas;Sou+um+entusiasta+de+Data+Science;Sou+apaixonado+por+tecnologia+e+inovação;Bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
-Sou um profissional apaixonado por **tecnologia e inovação**, com sólida experiência como **Assessor Parlamentar da Presidência da Câmara Municipal de Ponta Grossa**, especializado na área de TI. Minha jornada é marcada pela integração de **soluções tecnológicas** que impulsionam a eficiência e a transparência em processos legislativos.
-
-Com habilidades avançadas em várias linguagens de programação e tecnologias, minha missão é **transformar dados em insights** estratégicos que orientam decisões e agregam valor.
-
----
-
-### 🚀 **Tecnologias & Ferramentas:**
-
-<div>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Data%20Science-FF6F00?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Science" />
+<div align="center">
+  <br>
+  <p align="center">
+    <b>Visitantes</b>
+  </p>  
+  <p align="center">
+    <img align="center" src="https://profile-counter.glitch.me/{reinaldmendes}/count.svg" />
+  </p> 
+  <br>
 </div>
 
----
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=reinaldmendes&show_icons=true&count_private=true&hide_border=true&title_color=AED6F1&icon_color=AED6F1&text_color=EAF2F8&bg_color=0d1117" alt="Reinald Mendes GitHub Stats" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reinaldmendes&layout=compact&hide_border=true&title_color=AED6F1&text_color=AED6F1&bg_color=0d1117" />
+</div>
 
-### 📊 **Áreas de Especialidade:**
+<br><br>
 
-- **Desenvolvimento de Sistemas**: Java, Node, JavaScript, PHP, React Native, Python.
-- **Data Science & Análise de Dados**: Transformação de dados em insights estratégicos.
-- **Gestão de Projetos**: Liderança e comunicação eficazes para colaborar em equipes de TI.
-- **Integração de Soluções Tecnológicas**: Eficiência e transparência em processos legislativos.
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=reinaldmendes&bg_color=85C1E9&color=1F618D&line=2874A6&point=1F618D&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
+<hr>
 
-### 💡 **Sobre Mim:**
+<div align="center">
+  <h3>Principais Tecnologias</h3>
+  
+  [![My Skills](https://skillicons.dev/icons?i=java,js,php,react,python,nodejs,reactnative,docker)](https://skillicons.dev)
+</div>
 
-Sou movido pelo desafio constante de **aprender e aprimorar** minhas habilidades, estando sempre na vanguarda das tendências tecnológicas. Minha capacidade de comunicação e facilidade em **liderar projetos** me ajudam a colaborar com equipes de maneira eficiente.
+<hr>
 
-Estou comprometido em usar minha **experiência e conhecimentos** para contribuir significativamente com **projetos e empresas** que, assim como eu, valorizam a **inovação e a excelência**.
+<div align="center">
+  <h3>Ferramentas de Data Science</h3>
+  
+  [![My Skills](https://skillicons.dev/icons?i=jupyter,tensorflow,pandas,numpy)](https://skillicons.dev)
+</div>
 
----
+<hr>
 
-### 📫 **Contato:**
+<div align="center">
+  <h3>Estudando no momento:</h3>
+  
+  [![My Skills](https://skillicons.dev/icons?i=aws,prisma)](https://skillicons.dev)  
+  <img src="https://img.shields.io/badge/-Machine%20Learning-1F618D?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning" />
+</div>
 
-- **E-mail**: [reinald_30_2009@hotmail.com](mailto:reinald_30_2009@hotmail.com)
-- **Telefone**: +55 (42) 99156-2593
-- **LinkedIn**: [Reinald Mendes](https://www.linkedin.com/in/reinald-mendes)  
+<hr>
+
+<div align="center"> 
+  <a href="mailto:reinald_30_2009@hotmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/reinald-mendes" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank">
+  </a> 
+</div>
+
+<hr>
+
+<div align="center">
+  Sou apaixonado por tecnologia e inovação, sempre buscando integrar soluções que transformem ideias em realidade. 🚀
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=85C1E9&height=120&section=footer"/>
