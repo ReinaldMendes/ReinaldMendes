@@ -1,67 +1,94 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=85C1E9&height=120&section=header"/>
+<!-- Banner estilizado com avatar e stacks -->
+<p align="center">
+  <img src="./A_digital_illustration_features_a_portrait_of_a_ma.png" alt="Reinald Mendes Banner" style="width:100%; border-radius:12px;" />
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=AED6F1&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Reinald+Mendes;Sou+Analista+de+Dados;Sou+Analista+e+Desenvolvedor+de+Sistemas;Sou+um+entusiasta+de+Data+Science;Sou+apaixonado+por+tecnologia+e+inovação;Bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
-
-<div align="center">
-  <br>
-  <p align="center">
-    <b>Visitantes</b>
-  </p>  
-  <p align="center">
-    <img align="center" src="https://profile-counter.glitch.me/{reinaldmendes}/count.svg" />
-  </p> 
-  <br>
-</div>
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=reinaldmendes&show_icons=true&count_private=true&hide_border=true&title_color=AED6F1&icon_color=AED6F1&text_color=EAF2F8&bg_color=0d1117" alt="Reinald Mendes GitHub Stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reinaldmendes&layout=compact&hide_border=true&title_color=AED6F1&text_color=AED6F1&bg_color=0d1117" />
-</div>
-
-<br><br>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=reinaldmendes&bg_color=85C1E9&color=1F618D&line=2874A6&point=1F618D&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<hr>
-
-<div align="center">
-  <h3>Principais Tecnologias</h3>
-  
-  [![My Skills](https://skillicons.dev/icons?i=java,js,php,react,python,nodejs,reactnative,docker)](https://skillicons.dev)
-</div>
-
-<hr>
-
-<div align="center">
-  <h3>Ferramentas de Data Science</h3>
-  
-  [![My Skills](https://skillicons.dev/icons?i=jupyter,tensorflow,pandas,numpy)](https://skillicons.dev)
-</div>
-
-<hr>
-
-<div align="center">
-  <h3>Estudando no momento:</h3>
-  
-  [![My Skills](https://skillicons.dev/icons?i=aws,prisma)](https://skillicons.dev)  
-  <img src="https://img.shields.io/badge/-Machine%20Learning-1F618D?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning" />
-</div>
-
-<hr>
-
-<div align="center"> 
-  <a href="mailto:reinald_30_2009@hotmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+<!-- Saudação animada -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=1F618D&width=1000&lines=Olá,+sou+Reinald+Mendes!;Analista+de+Sistemas+%7C+Full+Stack+Developer;Entusiasta+de+Machine+Learning+e+Inovação" alt="Typing SVG" />
   </a>
-  <a href="https://www.linkedin.com/in/reinald-mendes" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank">
-  </a> 
-</div>
+</p>
 
-<hr>
+---
 
 <div align="center">
-  Sou apaixonado por tecnologia e inovação, sempre buscando integrar soluções que transformem ideias em realidade. 🚀
+
+### 👨‍💻 Sobre Mim
+
+Sou **Analista e Desenvolvedor de Sistemas**, apaixonado por tecnologia e inovação.  
+Atualmente atuo como **Software Engineer Full Stack na Lions Startups**, colaborando com projetos inovadores e de alto impacto.
+
+Tenho experiência no desenvolvimento de aplicações web, análise de dados e soluções inteligentes para ambientes escaláveis.
+
+- 🎯 Foco em resultados, segurança e escalabilidade  
+- 🧠 Entusiasta de Machine Learning e Ciência de Dados  
+- 🔄 Metodologia Ágil com **SCRUM**  
+- ☁️ Em aprendizado contínuo com **AWS**  
+
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=85C1E9&height=120&section=footer"/>
+---
+
+<div align="center">
+
+### 💼 Tech Stack
+
+#### 💻 Linguagens & Frameworks  
+<img src="https://skillicons.dev/icons?i=java,js,php,laravel,python,nodejs,react,reactnative,vue" />
+
+#### ⚙️ Ferramentas  
+<img src="https://skillicons.dev/icons?i=docker,vscode,phpstorm,git,mysql,mongodb" />
+
+#### 📊 Data Science  
+<img src="https://skillicons.dev/icons?i=jupyter,tensorflow" />  
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine%20Learning-1F618D?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 📈 GitHub Stats
+
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=reinaldmendes&show_icons=true&count_private=true&hide_border=true&title_color=1F618D&icon_color=1F618D&text_color=EAF2F8&bg_color=0d1117" />
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reinaldmendes&layout=compact&hide_border=true&title_color=1F618D&text_color=EAF2F8&bg_color=0d1117" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🧠 Gráfico de Atividade
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=reinaldmendes&bg_color=FFFFFF&color=1F618D&line=2874A6&point=1F618D&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<div align="center">
+
+### 📬 Contato
+
+<a href="mailto:reinald_30_2009@hotmail.com">
+  <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/reinald-mendes" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/reinaldmendes" target="_blank">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+  <strong>“Transformar dados em valor, ideias em soluções.”</strong> 🚀
+</div>
