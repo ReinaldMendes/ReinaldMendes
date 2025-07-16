@@ -31,6 +31,19 @@ Tenho experiência no desenvolvimento de aplicações web, análise de dados e s
 ---
 
 <div align="center">
+  
+### 🚀 Projetos recentes
+| Projeto                    | Descrição                                                                                                        |
+| -------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| **Infoconectados**         | Plataforma de conexão entre prestadores e clientes com back-end em PHP nativo e front-end responsivo.            |
+| **Vida Exames**            | Sistema de consulta a resultados de exames laboratoriais. Back-end com Laravel, front com Vue.js e Postgress.    |
+| **Vida Exames APP**        | Sistema de gestão de exames laboratoriais. Back-end com Laravel, front com Nuxt.js e Postgress.                  |
+
+</div>
+
+---
+
+<div align="center">
 
 ### 💼 Tech Stack
 
