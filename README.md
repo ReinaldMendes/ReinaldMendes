@@ -35,7 +35,7 @@ Tenho experiência no desenvolvimento de aplicações web, análise de dados e s
 ### 💼 Tech Stack
 
 #### 💻 Linguagens & Frameworks  
-<img src="https://skillicons.dev/icons?i=java,js,php,laravel,python,nodejs,react,reactnative,vue" />
+<img src="https://skillicons.dev/icons?i=php,laravel,python,nodejs,react,vue,java,js" />
 
 #### ⚙️ Ferramentas  
 <img src="https://skillicons.dev/icons?i=docker,vscode,phpstorm,git,mysql,mongodb" />
